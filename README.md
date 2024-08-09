@@ -1,9 +1,10 @@
 # JAVA-I-2019
 
+## About
 GitHub repository for the 2019 Java-I lecture at the University of Applied Sciences Augsburg.
 
 
-## Voraussetzungen:
+## Prerequisites
 * JS-Tools eingebunden
 
    ```sh
